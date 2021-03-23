@@ -1,0 +1,14 @@
+body{
+    background-color: cadetblue;
+}
+p{
+    size: 2px;
+    color:goldenrod
+}
+h1{
+    text-align: center;
+    color: lightskyblue;
+}
+h2{
+    color: magenta;
+}
